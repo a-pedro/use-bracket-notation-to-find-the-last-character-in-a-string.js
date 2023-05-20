@@ -1,0 +1,1 @@
+# use-bracket-notation-to-find-the-last-character-in-a-string.js
